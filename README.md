@@ -1,3 +1,23 @@
+# 🏡 Airbnb Clone
+
+A **responsive** and **feature-rich** Airbnb clone built using **React Native, Node.js, Tailwind CSS, and MongoDB**. This app allows users to browse, book, and manage property listings with a seamless experience.
+
+## 🚀 Features
+
+✅ **User Authentication** – Secure login & signup with JWT.  
+✅ **Property Listings** – Browse & search for accommodations.  
+✅ **Bookings & Reservations** – Real-time booking system.  
+✅ **Interactive UI** – Smooth animations & modern design.  
+✅ **Mobile-Friendly** – Fully responsive for all devices.  
+
+## 🛠️ Tech Stack
+
+🔹 **React Native** – Frontend framework for a dynamic UI.  
+🔹 **Node.js & Express** – Backend for API handling.  
+🔹 **MongoDB** – NoSQL database for storing user & property data.  
+🔹 **Tailwind CSS** – Utility-first styling for sleek visuals.  
+🔹 **JWT Authentication** – Secure login system.  
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
